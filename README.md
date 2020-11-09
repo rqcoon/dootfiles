@@ -3,7 +3,7 @@ my fucking dotfiles (for herbstluftwm)
 
 # how to install?
 ```zsh
-mv * ~.config/
+mv * ~/.config/
 ```
 
 > i think.
