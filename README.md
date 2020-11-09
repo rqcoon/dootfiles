@@ -11,12 +11,12 @@ mv * ~/.config/
 # programs used:
 https://github.com/dpayne/cli-visualizer
 
-herbstluftwm
+https://herbstluftwm.org/
 
-pywal/wal
+https://github.com/dylanaraps/pywal
 
-kitty
+https://github.com/kovidgoyal/kitty
 
-ranger
+https://github.com/ranger/ranger
 
-vim
+https://www.vim.org/
