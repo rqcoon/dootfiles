@@ -25,5 +25,7 @@ https://github.com/davatorium/rofi
 
 # installing all programs here using apt, fuck you arch users
 `sudo apt install fonts-firacode herbsluftwm kitty ranger vim rofi`
+
 `pip3 install pywal` <-- you need pip for this, you can do that through the apt package python3-pip
+
 vis is obtained through the git repo
