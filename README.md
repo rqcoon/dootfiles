@@ -7,3 +7,11 @@ mv * ~/.config/
 ```
 
 > i think.
+
+programs used:
+https://github.com/dpayne/cli-visualizer
+herbstluftwm
+pywal/wal
+kitty
+ranger
+vim
