@@ -30,21 +30,14 @@ zstyle ':completion:*' verbose true
 zstyle ':completion:*:*:kill:*:processes' list-colors '=(#b) #([0-9]#)*=0=01;31'
 zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 
-# Custom aliases and pywal colours
-alias spicetify=/home/jade/spicetify-cli/spicetify 
-
-cat /home/jade/.cache/wal/sequences
-
-alias ffetch='printf "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\n" && ./fetch && printf "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"'
-
 alias icat="kitty +kitten icat"
 
 alias clock="tty-clock -c -s -x -C3 -B -t"
 
-
 # youtube-dl for music downloads
 function music-dl() { youtube-dl -o "$2.%(ext)s" -x --audio-format mp3 $1 }
   
+# go, goddamit, go go go
 export PATH=$PATH:/usr/local/go/bin
 
 # Prezto n shit
