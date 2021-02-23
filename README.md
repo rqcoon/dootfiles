@@ -1,5 +1,5 @@
 # dootfiles
-![picture](2020-11-26_1920x1080_scrot.png)
+![picture](desktop.png)
 my fucking dotfiles (for herbstluftwm)
 
 # how to install?
